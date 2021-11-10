@@ -1,1 +1,1 @@
-# IntNum-rica
+# IntNumerica
